@@ -233,3 +233,10 @@ section .Filtro-de-cartao{
 }
 
 
+footer{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background: #dedede;
+    color: var(--blue);
+}
